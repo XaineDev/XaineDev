@@ -21,9 +21,3 @@
 <img src="https://raw.githubusercontent.com/xainedev/xainedev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FemboyCoder&theme=dracula&layout=compact" alt="language time" />
-</div>
-
-###
